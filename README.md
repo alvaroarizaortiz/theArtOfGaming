@@ -1,4 +1,5 @@
-# Bienvenid@
+# The Art of Gaming
+
 
 Esto es un repositorio creado con el fin de crear una pequeña página web acerca
 del **arte** relacionado con los videojuegos. 
