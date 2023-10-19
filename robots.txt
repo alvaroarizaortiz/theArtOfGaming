@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alvaroarizaortiz.github.io/Platinum/sitemap.xml.gz
+Sitemap: https://alvaroarizaortiz.github.io/theArtOfGaming/sitemap.xml.gz
