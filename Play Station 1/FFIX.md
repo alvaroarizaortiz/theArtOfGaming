@@ -11,7 +11,9 @@ Probablemente no sea el juego al que dediqué mas horas y probablemente tampoco 
 
 Años después decidí comprar el juego cuando salió en [Steam](https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/), una especie de versión "HD" que traía escenas en mayor definición. Para mi eso no era lo importante, la clave era que por 20€ iba a poder jugar ese juego que nunca pude terminar y que me terminó dando 100 horas de disfrute y de nostalgia. 
 
-> :bulb: Para disfrutar la verdadera experiencia HD de Final Fantasy IX recomiendo usar [Moguri Mod](https://sites.google.com/view/moguri-mod/home), una modificación hecha por los fans que además arregla bugs que hay en el propio juego. 
+!!!
+Para disfrutar la verdadera experiencia HD de Final Fantasy IX recomiendo usar [Moguri Mod](https://sites.google.com/view/moguri-mod/home), una modificación hecha por los fans que además arregla bugs que hay en el propio juego. 
+!!!
 
 <center> El juego comienza presentándonos a nuestro protagonista: 
 </center>
