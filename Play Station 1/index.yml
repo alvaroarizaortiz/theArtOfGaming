@@ -1,0 +1,7 @@
+label: Play Station 1
+icon: file-directory
+expanded: true
+meta:
+  title: "Final Fantasy"
+  order: 9999
+  visibility: public
