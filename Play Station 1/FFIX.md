@@ -1,53 +1,85 @@
-# <h1> FINAL FANTASY IX </h1>
+# FINAL FANTASY IX 
 
-![](/img/ffix/Logo_Final_Fantasy_IX.webp "Logo de Final Fantasy IX")
+![Logo de Final Fantasy IX](/img/ffix/Logo_Final_Fantasy_IX.webp "Logo de Final Fantasy IX")
 
-Antes de nada me gustaría decir que Final Fantasy IX es, casi sin lugar a dudas, el juego de mi infancia. En el cuarto de mi hermano teníamos la [PlayStation One](https://es.wikipedia.org/wiki/PlayStation_(consola)#/media/Archivo:Psoneoficial.png), la que fue en su momento la segunda versión de la PlayStation, esa que estaba redondeada por los bordes. Teníamos dos mandos de los que ya tenían vibración incorporada, los [DualShock](https://es.wikipedia.org/wiki/PlayStation_(consola)#/media/Archivo:Dualshocktradicional.jpg) y dos Memory Card, que nunca llegaron a tener un nombre en español porque nunca conocí a nadie que las llamara *Tarjetas de memoria*. Tenía que hacer malabares para no llenar las dos Memory Cards, ya que usaba "bloques de guardado" cada juego llenaba como mínimo un bloque, así que como máximo guardabas 15 juegos en una.
+En el cuarto de mi hermano, solíamos disfrutar de la **[PlayStation One](https://es.wikipedia.org/wiki/PlayStation_(consola)#/media/Archivo:Psoneoficial.png)**, la cual fue la segunda versión de la PlayStation en su momento, conocida por su distintivo diseño redondeado. Contábamos con dos mandos **[DualShock](https://es.wikipedia.org/wiki/PlayStation_(consola)#/media/Archivo:Dualshocktradicional.jpg)** que incluían vibración, así como dos Memory Cards. Resulta curioso que estas *Memory Cards* no usaran su nombre en español; rara vez escuché a alguien llamarlas "Tarjetas de memoria". Cualquier persona que haya tenido una sabrá que había que ingeniar soluciones para evitar llenar una Memory Card, ya que cada juego consumía al menos un bloque, permitiendo almacenar un máximo de 15 juegos en cada una.
 
-> :memo:  **Mención especial** al mando negro transparente, funcionaba exactamente igual pero ahora se venden el doble de caros porque son más *retro*. 
-Digo más, incluso tenía la típica [Memory Card](https://es.wikipedia.org/wiki/Archivo:MemoryCard-PS.jpg#/media/Archivo:MemoryCard-PS.jpg) pero también  la negra transparente.  
+> :memo: **Mención especial** para el mando negro transparente que, aunque funcionaba exactamente igual, hoy en día se cotizan a precios mucho más elevados debido a su carácter "retro". De hecho, teníamos tanto la **[Memory Card](https://es.wikipedia.org/wiki/Archivo:MemoryCard-PS.jpg#/media/Archivo:MemoryCard-PS.jpg)** gris "normal" como la versión negra transparente.
 
-Probablemente no sea el juego al que dediqué mas horas y probablemente tampoco sea el juego al que más pude jugar. Era un JRPG difícil para un niño, pero el juego era completamente increíble. Sin temor a equivocarme diría que la Play Station 1 llegó a su máximo potencial con Final Fantasy IX. No recuerdo haber jugado a nada que se viera tan bien, ya fuera en las cinemáticas o en el propio juego. El juego venía en 4 CDs y cada vez que se terminaba uno la consola te pedía que la abrieras, sacaras el CD e introdujeras el siguiente (imagina el estrés que suponía en un niño abrir la consola y sacar el disco sin guardar para meter otro) y mágicamente el juego seguía. Nunca pude terminar el juego en la PS One porque en la última zona del segundo disco se congelaba. Supongo que el segundo disco se había rayado justo para que nunca lo terminara y me quedara con las ganas de avanzar al tercero :pensive:.
+## Mi obsesión con FFIX
 
-Años después decidí comprar el juego cuando salió en [Steam](https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/), una especie de versión "HD" que traía escenas en mayor definición. Para mi eso no era lo importante, la clave era que por 20€ iba a poder jugar ese juego que nunca pude terminar y que me terminó dando 100 horas de disfrute y de nostalgia. 
+Antes que nada, me gustaría compartir que Final Fantasy IX es, sin lugar a dudas, el juego de mi infancia. Aunque quizás no sea el título al que más horas le dediqué, ni el que más jugué, tuvo un lugar especial en mi corazón. Era un JRPG desafiante para un niño (no recuerdo exactamente de qué edad, pero menos de 12 años), y resultaba completamente asombroso un juego así en una consola como la PSOne. Sin duda, podríamos decir que la PlayStation 1 alcanzó su máximo potencial con Final Fantasy IX. Recuerdo que ningún juego se comparaba en términos gráficos, ya fuera en las cinemáticas o en el propio juego.
 
-!!!
-Para disfrutar la verdadera experiencia HD de Final Fantasy IX recomiendo usar [Moguri Mod](https://sites.google.com/view/moguri-mod/home), una modificación hecha por los fans que además arregla bugs que hay en el propio juego. 
-!!!
+El juego venía en 4 CDs, y cada vez que terminabas uno, la consola te pedía que la abrieras, retiraras el CD e insertaras el siguiente (imagina el estrés que esto suponía para un niño, abrir la consola y cambiar el disco sin guardar). Pero mágicamente, el juego seguía (al menos la mayoría de las veces, experimenté algún susto que otro con esta mecánica de los discos). A pesar de ello, nunca logré completar el juego en la PS One, ya que en la última zona del segundo disco se congelaba. Supongo que ese disco se había rayado justo en el momento menos oportuno, dejándome con las ganas de avanzar al tercero 😔.
 
-> :warning: Este post contiene **spoilers de su mundo y sus personajes**, si tienes pensado jugar FFIX quizás quieras parar aquí.
+Años después decidí comprar el juego cuando salió en [Steam](https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/), en una suerte de versión "HD" que presentaba escenas en alta definición. Para mí, lo verdaderamente valioso no era la calidad de las imágenes, sino que, por 20€, podría finalmente jugar ese juego que nunca pude completar. Y lo acabé disfrutando muchísimo, me regaló más de 100 horas de disfrute y nostalgia. 
 
-<center> El juego comienza presentándonos a nuestro protagonista: 
-</center>
+> :warning: **Este post contiene spoilers relacionados con el mundo y los personajes de Final Fantasy IX, AUNQUE NO REVELA DETALLES DE LA TRAMA PRINCIPAL. Si planeas jugar FFIX, quizás desees detenerte aquí.**
 
-![Zidane Tribal es el nombre que tiene en la versión americana del juego, Yitán es el nombre que recibió en la versión en español del juego](/img/ffix/ffix-yitan.webp "Zidane Tribal")
+## Presentación de los personajes
 
-Para nosotros será **Yitán**, un ladrón de cabello rubio y cola peluda, que trabaja para la agrupación teatral Tantalus. Desde el principio del juego podremos ver que Yitán es un casanova, el típico picaflores que no desaprovecha la ocasión de ligar o piropear a las mujeres. Yitan tiene el cabello rubio atado en una coleta corta y los ojos azulados. Usa un chaleco corto y unos pantalones azulados con un cinturon marrón. Usa guantes y un par de botas de color verdosos y con tacones. Es un personaje muy empático y que durante toda la aventura se preocupará por sus compañeros y les dará consejos, actuando como un amigo durante toda el tiempo. Se muestra muy seguro de sus capacidades como ladrón y usa dos dagas al mismo tiempo. Su diseño responde al **estereotipo de personaje guaperas y ligón que aparantemente no tiene ningún problema y es muy seguro de sí mismo y de todo lo que hace**. 
+### Yitán
+
+Nuestro protagonista es **Yitán** (Zidane en la versión estadounidense del juego), un ladrón de cabello rubio y una cola peluda que trabaja para la compañía teatral Tantalus. Desde el comienzo del juego, se nos muestra que Yitán es un seductor, un clásico mujeriego que no desaprovecha la oportunidad de coquetear y elogiar a las mujeres. Yitán tiene el cabello rubio atado en una coleta corta y unos ojos azules. Viste un chaleco corto, pantalones azules con un cinturón marrón, guantes y un par de botas verdes con tacones. Es un personaje sumamente empático que se preocupa constantemente por sus compañeros y les brinda consejos, actuando como un amigo durante toda la aventura. Además, se muestra muy seguro de sus habilidades como ladrón y lucha con dos dagas al mismo tiempo. Su diseño encaja con el **estereotipo de personaje atractivo que aparentemente no tiene problemas y posee una gran confianza en sí mismo y en todo lo que hace**.
+
+![¿Se necesita una razón para ayudar a alguien?](/img/ffix/ffix-yitan.webp "Zidane Tribal")
+
+### Grupo Teatral Tantalus
+
+El grupo de teatro Tantalus es un **grupo itinerante de ladrones** liderado por Bakú. Aparecen como artistas para encubrir sus robos y realizan espectáculos como distracción mientras realizan un trabajo. El grupo de teatro es famoso en todo Lindblum ya que tienen su base de operaciones en esta ciudad y muchos los conocen simplemente como artistas. El grupo de teatro Tantalus viaja en su aeronave, el **M.S. Prima Vista**. Se cree que su nombre viene de un gran cráter volcánico en Hawaii ya que gran parte de Final Fantasy IX se desarrolló en Hawaii en la ahora desaparecida sucursal de Square USA.
 
 ![La agrupación Teatral Tantalus, de izquierda a derecha: Marcus, Cinna, Bakú, Blank, Ruby, Yitán y los hermanos Zenaro y Benaro](/img/ffix/FFIX-Tantalus_design.webp "Agrupación Teatral Tantalus")
 
-- **Marcus**: viste un conjunto de ropa que incluye una chaqueta de cuero marrón, una camisa blanca, pantalones largos y botas marrones. Lleva guantes marrones y una bufanda roja alrededor de su cuello, está representado con la clásica vestimenta occidental de pirata. Es un amigo leal y de buen corazón que siempre está dispuesto a ayudar a todos sus compañeros de Tantalus. Demuestra ser un líder capaz que está dispuesto a dejar de lado cualquier diferencia para resolver un problema. En la versión española del juego Marcus utiliza la letra Z como parte de su acento y llama a sus compañeros compadres. Como curiosidad, Marcus será el protagonista de la obra teatral *"Quiero ser tu canario"* y su nombre parece ser una referencia a Marcus Brutus de la obra [*La tragedia de Julio César*](https://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=juliuscaesar) de Shakespeare.
+- Marcus
+    - Vestimenta: Chaqueta de cuero marrón, camisa blanca, pantalones largos, botas marrones, guantes marrones y bufanda roja alrededor del cuello. Representa al clásico pirata occidental.
+    - Personalidad: Amigo leal y de buen corazón, líder capaz que resuelve problemas dejando de lado las diferencias.
+    - Curiosidad: En la versión española utiliza la letra "Z" como parte de su acento y llama a sus compañeros "compadres". Su nombre podría ser una referencia a Marcus Brutus de [*La tragedia de Julio César*](https://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=juliuscaesar) de Shakespeare.
 
-- **Cinna**: es, probablemente, el peor ladrón y actor de la agrupación teatral. Su actitud es payasezca y tiene traspiés con frecuencia, lo que le da sensación de ser un personaje torpe. Su mayor habilidad es operar y manipular máquinas, algo que es vital en un mundo donde los barcos puede volar. Lleva un gran martillo que utiliza como herramienta y como arma y un sombrero que parece el gorro de un chef o una especie de tuerca. (Lo cual tendría mucho más sentido siendo el mecánico de la banda). Su nombre también parece ser referencia a La tragedia de Julio César de Shakespeare, lo cual no hace más que reforzar que Marcus y Cinna están basados en la obra teatral de 1599 (Tantalus es una banda de ladrones que usa el teatro como forma de blanquear su verdadero origen y llevar a cabo sus operaciones delictivas de manera encubierta.).
+- Cinna
+    - Vestimenta: Porta un sombrero que parece el gorro de un chef o una tuerca y lleva un gran martillo como herramienta y arma.
+    - Personalidad: Torpe y payasesco, pero hábil en la operación de máquinas.
+    - Curiosidad: Su nombre también parece ser una referencia a [*La tragedia de Julio César*](https://www.opensourceshakespeare.org/views/plays/playmenu.php?WorkID=juliuscaesar) de Shakespeare.
 
-- **Bakú**: es el líder del Grupo de Teatro Tantalus. Actúa como un líder duro pero que está muy unido a lo que el considera su familia.  En su cabeza, lleva una gorra de aviador de cuero marrón que le cubre parte de la frente y viste un uniforme de cuero marrón y negro, que incluye una chaqueta de cuero con hombreras, pantalones largos, guantes de cuero y botas altas de color marrón.. Bakú encontró a Yitán de bebe y lo adoptó y crió como si fuera hijo suyo. Su nombre en japonés significa [Tapir](https://es.wikipedia.org/wiki/Tapirus), un animal que se asemeja fisicamente al personaje. También puede significar *"ataque de risa"*, que es algo que hace durante toda la historia, poniendo sus manos en la barriga y riéndose moviendo todo el cuerpo. Se deja vencer en los combates que tiene contra Yitán, ya que solo son una forma de evaluar su habilidad para saber si puede emprender la misión que llevará a cabo durante la historia del juego.
+- Bakú
+    - Vestimenta: Lleva una gorra de aviador de cuero marrón, chaqueta de cuero con hombreras, pantalones largos, guantes de cuero y botas altas de color marrón y negro.
+    - Personalidad: Líder duro pero unido a su "familia" en Tantalus. Encontró y crió a Yitán como su hijo.
+    - Curiosidad: Su nombre en japonés significa [Tapir](https://es.wikipedia.org/wiki/Tapirus), un animal que se asemeja a su físico.
 
-- **Blank**: el mejor amigo de Marcus y tiene una relación amorosa un tanto extraña con Ruby, la dueña del Miniteatro de Alexandría. Su actitud es la de un personaje más reservado y solitario que no se deja llevar por las emociones. Las cicatrices son el resultado de las numerosas peleas y peligros que ha enfrentado como ladrón. Blank parece ser un personaje humano completamente normal aunque existe la teoría (proveniente de algunos jugadores) que piensan que su apareciencia inusual es debido a que su cuerpo está compuesto de diferentes partes cosidas o que perdió partes del cuerpo en algún momento. Mi opinión personal es que su apariencia es una elección artística por parte de los diseñadores del juego para dotar al personaje de una apariencia dura y misteriosa. 
+- Blank
+    - Vestimenta: Aspecto humano normal con cicatrices que resultan de numerosas peleas y peligros.
+    - Personalidad: Reservado y solitario, no se deja llevar por las emociones.
+    - Curiosidad: Su apariencia podría ser una elección artística para otorgarle un aspecto duro y misterioso.
 
-- **Ruby**: el único personaje de la banda que no es ladrón. Ruby es una actriz que sueña con hacerse famosa y que durante la historia del juego crea su propio teatro en Alexandría. Su apariencia refleja su personalidad teatral y en la versión española usa un marcado acento argentino. Ruby lleva una blusa blanca con escote bajo y mangas cortas y medias blancas opacas, zapatos rosados, guantes cortos blancos con lazos marrones y un collar marrón. Su estilo es coherente con el ambiente teatral y su forma de expresarse le da cierta extravagancia como personaje. 
+- Ruby
+    - Vestimenta: Blusa blanca con escote bajo, medias blancas opacas, zapatos rosados, guantes cortos blancos con lazos marrones y un collar marrón.
+    - Personalidad: Actriz que sueña con la fama y se expresa de manera extravagante con un marcado acento argentino.
 
-- **Hermanos Zenaro y Benaro**: son varios hermanos, aunque solo estos dos pertenecen a la banda Tantalus. Van enmascarados y utilizan garras metálicas como manos. Parecen ser una especie de cerdos humanoides con la piel de color azulada. Llevan una especie de cota metálica atada con cinturones de cuero y unas botas altas. Son dos personajes utilizados como recurso cómico ya que terminan sus frases con un *"que sí"* a la vez que saltan. No aparecen en la mayoría de escenas y en la mayoría de ellos ni siquiera interactuan con los personajes principales, si no que están en segundo plano. 
+- Hermanos Zenaro y Benaro
+    - Vestimenta: Enmascarados, garras metálicas como manos, piel azulada, cota metálica y botas altas.
+    - Personalidad: Recurso cómico, terminan frases con un "que sí" mientras saltan. No interactúan con los personajes principales en la mayoría de las escenas.
 
-Os preguntaréis cual es la misión de estos zascandiles cuando nos dan el control de nuestro personaje. Simple: llegar a Alexandría como grupo teatral, actuar en la obra *"Quiero ser tu canario"* y **secuestrar a la princesa Garnet Von Alexandros** mientras tanto. ¿Por qué es importante para la agrupación teatral Tantalus? Eso tendrás que descubrirlo por ti mismo, aquí solo vamos a ver quién es Garnet von Alexandros.
+![Concept art de Tantalus por Yoshitaka Amano](/img/ffix/ffix-conceptarttantalus.webp "Concept art Tantalus")
 
-![Que no os engañe ese primer boceto, Garnet nunca usará un estoque para combatir, ni siquiera hay una sola escena en la que porte uno](/img/ffix/ffix-garnet.webp "Garnet Von Alexandros")
+Os preguntaréis cuál es la misión de estos zascandiles cuando nos dan el control de nuestro personaje. Simple: llegar a Alexandría como grupo teatral, actuar en la obra *"Quiero ser tu canario"* y **secuestrar a la princesa Garnet Von Alexandros** mientras tanto. ¿Por qué es importante para la agrupación teatral Tantalus? Eso tendrás que descubrirlo por ti mismo, aquí solo vamos a ver quién es Garnet Von Alexandros.
+
+### Garnet
 
 **Garnet** es un personaje en el polo opuesto a Yitán. **Es una princesa arquetípica**, es decir, es un personaje educado, que obedece a cualquier tipo de orden, discreto y que mantiene las formas en cualquier circunstancia. Tiene el cabello largo y negro atado por una pinza azul y los ojos marrones. Viste una blusa blanca con mangas acampanadas debajo de un mono anaranjado sin mangas y ajustado al cuerpo, con cordones en el frente y en la parte trasera, y grandes hebillas blancas en los muslos. Lleva un par de guantes de cuero rojo y botas rojas hasta los tobillos, así como un collar negro y un gran cristal suspendido de un largo colgante de plata.  Su estilo de combate se centra en la **magia blanca** (personajes que se especializan en el uso de magia curativa o de apoyo hacia el resto de personajes del grupo) aunque con el progreso de la trama irá aprendiendo algún que otro *"truquito"*. Desde que la "*raptan*" (las comillas aquí son importantes) se comporta de forma extremadamente educada con sus secuestradores y se preocupa por ellos. Esto forma un gran contraste entre los dos principales protagonistas, siendo Yitán todo lo contrario a Garnet, es decir, un personaje bruto que trata a todo el mundo como semejantes y que no entiende de modales. 
+
+![Aunque sea reina no quiero dejar de ser yo misma](/img/ffix/ffix-garnet.webp "Garnet Von Alexandros")
+
+### Steiner
+
+Inseparable a Garnet siempre se encuentra el caballero Adalbert **Steiner**, al que cualquier jugador podría reconocer por ser un **caballero clásico**. Es el líder del Batallón Pluto y su deber es proteger a la princesa. Luce una armadura brillante, completa con un casco de malla que deja ver su rostro, una armadura de placas plateadas, guanteletes de acero y botas metálicas. Es el usuario de espadas de hoja ancha del juego(típicas espadas de caballero). Steiner es el epítome de la caballería y el honor, un hombre de principios. No nos debemos dejar llevar por su apariencia ya que es, probablemente, el personaje más torpe y testarudo de todo el juego, por lo que dará lugar a escenas cómicas y a peleas por defender sus principios. Su relación con Vivi es igual de servicial que con la Princesa mientras que con Yitán no se lleva especialmente bien, acusándolo de secuestrador y ladrón. El apellido *Steiner* puede tener relación con la palabra en idioma Alemán *Stein* que significa piedra en alusión a la personalidad y apariencia de Adalbert. 
+
+![Habiendo jurado lealtad, ¿debo pasar mi vida en servidumbre?](/img/ffix/ffix-steiner.webp "Adalbert Steiner")
+
+### Vivi
 
 Y aquí es donde entra nuestro verdadero personaje jugable. Si habéis jugado cualquier otro Final Fantasy lo reconoceréis al instante, es un **mago negro clásico** (personajes que se especializan en el uso de magia destructiva y hechizos elementales como el fuego, agua, hielo, rayo).  **Vivi** se comporta de forma asustadiza ya que cree que es diferente al resto.
 Vivi tiene el rostro completamente negro y grandes ojos amarillos. Lleva un gran sombrero puntiagudo de color beige, una chaqueta azul, pantalones a rayas verdes y blancos, guantes rojos y blancos, y botas marrones. También debemos recalcar que es un "niño", es decir, no ha llegado a su edad adulta, aunque como veréis si jugáis el juego, la edad es un tema complicado con los magos negros. La etimología de su nombre no es segura, aunque tiene bastante sentido que venga directamente del verbo vivir, lo cual tendría muchísimo sentido con el personaje y su desarrollo durante toda la historia del juego.
 
-![Orunitia es la romanización de Ornitier, su apellido en Europa](/img/ffix/ffix-vivi.webp "Vivi Ornitier")
+![Ser o no ser... ¿Cómo podemos probar nuestra propia existencia?](/img/ffix/ffix-vivi.webp "Vivi Ornitier")
 
 [This project is under fair use. Final Fantasy IX and associated trademarks belong to SQUARE ENIX CO., LTD. All Rights Reserved.]: #
 
